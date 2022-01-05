@@ -43,3 +43,5 @@ An example Dockerfile has been included. Modify line 12 to change the guild id. 
 ## License
 
 [MIT](https://tldrlegal.com/license/mit-license)
+
+[<img src="https://open.autocode.com/static/images/open.svg?" width="192">](https://open.autocode.com/)
